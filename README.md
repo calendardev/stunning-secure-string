@@ -9,6 +9,8 @@ For use in Node
 
 `npm install stunning-secure-string`
 
+`secureString(prefix, byteSize)`
+
 ```javascript
 const secureString = require('stunning-secure-string');
 const token = secureString();
@@ -18,3 +20,7 @@ const token = secureString();
 const token = secureString(14)
 // tmii7akxzZGt1ayEYk
 ```
+
+## Test
+
+`npm run test`
