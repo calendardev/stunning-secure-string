@@ -1,0 +1,22 @@
+{
+  "name": "stunning-secure-string",
+  "version": "1.0.0",
+  "description": "a good looking crypto random string to use for things like API keys ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/updock/stunning-secure-string.git"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "Jacob Schatz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/updock/stunning-secure-string/issues"
+  },
+  "homepage": "https://github.com/updock/stunning-secure-string#readme"
+}
