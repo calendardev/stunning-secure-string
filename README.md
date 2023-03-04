@@ -12,7 +12,7 @@ For use in Node
 `secureString(prefix, byteSize)`
 
 ```javascript
-const secureString = require('stunning-secure-string');
+const { secureString } = require('stunning-secure-string');
 const token = secureString();
 // FV6G7LR9Ng9hUZZNvfEZUJRU13lPVlKJ23qKPXNOmpE3F1rmrjwU9Wx9NdFLJsC0nLEOHi88RPsX7SB4kdWY99PDXqViIuQ0Q
 
