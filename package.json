@@ -1,6 +1,6 @@
 {
   "name": "stunning-secure-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a good looking crypto random string to use for things like API keys",
   "main": "index.js",
   "scripts": {
