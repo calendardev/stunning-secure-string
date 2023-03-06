@@ -21,8 +21,8 @@ const token = secureString("", 14)
 // tmii7akxzZGt1ayEYk
 
 // or add prefix
-const token = secureString("sk_live", 64)
-// sk_live_iXI8GYgE7BBpIshv2k6VxIqxu7q5jSoPrZjslVT6hgTLfxMxRGWU7jrpt5hbHyi6ZNXTS09qFBQfcW6YMwFw
+const token = secureString("live", 64)
+// live_iXI8GYgE7BBpIshv2k6VxIqxu7q5jSoPrZjslVT6hgTLfxMxRGWU7jrpt5hbHyi6ZNXTS09qFBQfcW6YMwFw
 ```
 
 ## Test
